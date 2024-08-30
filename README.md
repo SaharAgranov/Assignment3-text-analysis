@@ -21,7 +21,6 @@ The goal of this project is to apply text analysis techniques to a dataset, usin
 - **Tokenization**: Breaking down the text into individual tokens (words or phrases).
 - **Word Frequency Analysis**: Calculating and visualizing the frequency of words in the text.
 - **Sentiment Analysis**: Assessing the sentiment of the text (positive, negative, neutral).
-- **Visualization**: Generating charts and graphs to visualize word frequencies and sentiment distribution.
 
 ## Data
 
